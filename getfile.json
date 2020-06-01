@@ -1,0 +1,32 @@
+{
+"result": true,
+"plugins_": {
+"info_server.lua":"TitanFiles",
+"db.lua":"TitanFiles",
+"start.lua":"TitanFiles",
+"rdrp.lua":"TitanFiles",
+"botrd.lua":"TitanFiles",
+"notxt.lua":"TitanFiles",
+"re_o.lua":"TitanFiles",
+"userck.lua":"TitanFiles",
+"info_sudos.lua":"TitanFiles",
+"photock.lua":"TitanFiles",
+"rpid.lua":"TitanFiles",
+"if_not_bot.lua":"TitanFiles",
+"db_get.lua":"TitanFiles",
+"add_bot.lua":"TitanFiles",
+"bname.lua":"TitanFiles",
+"ban_my_bot.lua":"TitanFiles",
+"wadd.lua":"TitanFiles",
+"hi_user.lua":"TitanFiles",
+"hms.lua":"TitanFiles",
+"tagadmin.lua":"TitanFiles",
+"pubg.lua":"TitanFiles",
+"rdod.lua":"TitanFiles",
+"namel.lua":"TitanFiles",
+"cheat.lua":"TitanFiles",
+"SH_GB.lua":"TitanFiles",
+"ban_all.lua":"TitanFiles"
+
+}
+}
